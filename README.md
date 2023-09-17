@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on adminstrative customs
 - 🌱 I’m currently learning C#, Angular, SQL SERVER
 - 👯 I’m looking to collaborate on full-stack
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoSotnas&show_icons=true&theme=transparent)
